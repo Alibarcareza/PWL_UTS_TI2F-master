@@ -8,7 +8,7 @@ class SepatuController extends Controller
 {
     /**
      * Display a listing of the resource.
-     *
+     *g
      * @return \Illuminate\Http\Response
      */
     public function index()
