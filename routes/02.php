@@ -2,7 +2,7 @@
 /*
     UTS Mata Kuliah Pemrograman Web Lanjut
 
-    Catatan, lengkapi data diri anda berikut iniii
+    Catatan, lengkapi data diri anda berikut iniiii
     
     NIM     : 2041720182
     Nama    : Muhammad Ali Reza
